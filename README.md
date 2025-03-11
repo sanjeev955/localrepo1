@@ -1,3 +1,3 @@
-# localrepo1
+# localrepo2
 repo created
-modified
+modified now
